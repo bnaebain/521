@@ -17,5 +17,3 @@ Within the project you can find all four container types, an example of each:
 The iteration type (while), if, and try/else conditions can all be found in the main.input_() function. 
 
 The unit tests are notated by if __name__ == "__main__":. Each will automatically run when you run the main script. No need to run them one by one. The user input version will require the removal of the docstring quotes (lines 133 and 137) or to run the selection of lines 134 – 136. You must install requests; all other modules are native: datetime, time, random, os, and csv. Use of the requests module was pre-approved. 
-![image](https://user-images.githubusercontent.com/89875892/155753267-3f3b6aaf-ef19-4cc2-9fb5-010538ca9120.png)
-
